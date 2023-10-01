@@ -1,7 +1,5 @@
 <h1 align="center">𓆩｡</𝙌> ｡𓆪 ✘ 𝙂𝘾𝙈𝙖𝙣𝙖𝙜𝙚𝙧</h1>
-<p align="center">
-  <img src="https://te.legra.ph/file/c38cc05be2f3c2b1d7960.jpg">
-</p>
+
 <p align="center">
 <a href="https://github.com/Mahesh953-hub/DoreamonRobot/stargazers"><img src="https://img.shields.io/github/stars/Mahesh953-hub/DoreamonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/Mahesh953-hub/DoreamonRobot/network/members"> <img src="https://img.shields.io/github/forks/Mahesh953-hub/DoreamonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
