@@ -64,11 +64,11 @@ RUN apt update && apt upgrade -y && \
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-RUN git clone https://github.com/Noob-Mukesh/MukeshRobot /root/MukeshRobot
+RUN git clone https://github.com/Mahesh953-hub/GCMANAGER-BOT /root/GCMANAGER-BOT
 WORKDIR /root/MukeshRobot
 
-#Copy config file to /root/MukeshRobot/MukeshRobot
-COPY ./MukeshRobot/config.py ./MukeshRobot/config.py* /root/MukeshRobot/MukeshRobot/
+#Copy config file to /root/GCMANAGER-BOT/GCMANAGER-BOT
+COPY ./GCMANAGER-BOT/config.py ./GCMANAGER-BOT/config.py* /root/GCMANAGER-BOT/GCMANAGER-BOT
 
 ENV PATH="/home/bot/bin:$PATH"
 
